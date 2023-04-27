@@ -1,0 +1,6 @@
+[submodule "recept-api-vizsgaremek"]
+	path = recept-api-vizsgaremek
+	url = https://github.com/Lali98/recept-api-vizsgaremek.git
+[submodule "recept-frontend-vizsgaremek"]
+	path = recept-frontend-vizsgaremek
+	url = https://github.com/Lali98/recept-frontend-vizsgaremek.git
